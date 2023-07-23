@@ -2,7 +2,6 @@
 
 # Muhammad Suleman - Software Engineer & Data Analytics Enthusiast
 
-![Profile Picture](profile_picture.jpg)
 
 ## Introduction
 
@@ -37,7 +36,7 @@ Feel free to explore, contribute, or provide feedback on any of the repositories
 I'm always excited to connect with fellow developers, data enthusiasts, and potential collaborators. If you have any questions, want to collaborate on a project, or just want to chat about software engineering or data analytics, feel free to reach out to me.
 
 - LinkedIn: [Muhammad Suleman]
-- Email: [your.email@example.com](mailto:sulemanwork09@onmail.com)
+- Email: [sulemanwork@onmail.com](mailto:sulemanwork@onmail.com)
 - Location: Pakistan
 
 
